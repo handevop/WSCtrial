@@ -1,0 +1,16 @@
+C:\Users\Antonio\source\repos\WorldSkills\WorldSkills\obj\Debug\WorldSkills.csprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\WorldSkills\WorldSkills\obj\Debug\WorldSkills.LoginForm.resources
+C:\Users\Antonio\source\repos\WorldSkills\WorldSkills\obj\Debug\WorldSkills.Properties.Resources.resources
+C:\Users\Antonio\source\repos\WorldSkills\WorldSkills\obj\Debug\WorldSkills.csproj.GenerateResource.cache
+C:\Users\Antonio\source\repos\WorldSkills\WorldSkills\obj\Debug\WorldSkills.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\WorldSkills\WorldSkills\bin\Debug\WorldSkills.exe.config
+C:\Users\Antonio\source\repos\WorldSkills\WorldSkills\bin\Debug\WorldSkills.exe
+C:\Users\Antonio\source\repos\WorldSkills\WorldSkills\bin\Debug\WorldSkills.pdb
+C:\Users\Antonio\source\repos\WorldSkills\WorldSkills\obj\Debug\WorldSkills.exe
+C:\Users\Antonio\source\repos\WorldSkills\WorldSkills\obj\Debug\WorldSkills.pdb
+C:\Users\Antonio\source\repos\WorldSkills\WorldSkills\obj\Debug\WorldSkills.Natjecatelj.resources
+C:\Users\Antonio\source\repos\WorldSkills\WorldSkills\obj\Debug\WorldSkills.Sudac.resources
+C:\Users\Antonio\source\repos\WorldSkills\WorldSkills\obj\Debug\WorldSkills.Voditelj.resources
+C:\Users\Antonio\source\repos\WorldSkills\WorldSkills\bin\Debug\EasyEncryption.dll
+C:\Users\Antonio\source\repos\WorldSkills\WorldSkills\obj\Debug\WorldSkills.csproj.CopyComplete
+C:\Users\Antonio\source\repos\WorldSkills\WorldSkills\obj\Debug\WorldSkills.RegisterForm.resources
